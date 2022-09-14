@@ -60,13 +60,13 @@
     <lastmod>2022-09-06T23:11:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="esp"
-                href="/esp/docs/getting-started/"
+                hreflang="de"
+                href="/de/docs/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/docs/getting-started/"
+                hreflang="esp"
+                href="/esp/docs/getting-started/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -240,13 +240,13 @@
     <lastmod>2022-09-06T23:11:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="esp"
-                href="/esp/docs/reference/"
+                hreflang="de"
+                href="/de/docs/reference/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/docs/reference/"
+                hreflang="esp"
+                href="/esp/docs/reference/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -276,13 +276,13 @@
     <lastmod>2022-09-06T23:11:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="esp"
-                href="/esp/docs/"
+                hreflang="de"
+                href="/de/docs/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/docs/"
+                hreflang="esp"
+                href="/esp/docs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -294,13 +294,13 @@
     <lastmod>2022-09-06T23:11:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="esp"
-                href="/esp/blog/news/"
+                hreflang="de"
+                href="/de/blog/news/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/blog/news/"
+                hreflang="esp"
+                href="/esp/blog/news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -312,13 +312,13 @@
     <lastmod>2022-09-06T23:11:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="esp"
-                href="/esp/blog/releases/"
+                hreflang="de"
+                href="/de/blog/releases/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/blog/releases/"
+                hreflang="esp"
+                href="/esp/blog/releases/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -543,7 +543,7 @@
                 />
   </url><url>
     <loc>/about/</loc>
-    <lastmod>2022-09-06T23:11:12+02:00</lastmod>
+    <lastmod>2022-09-14T15:25:35+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -564,13 +564,13 @@
     <lastmod>2022-09-06T23:11:12+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="esp"
-                href="/esp/blog/"
+                hreflang="de"
+                href="/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="/de/blog/"
+                hreflang="esp"
+                href="/esp/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -579,6 +579,7 @@
                 />
   </url><url>
     <loc>/career/</loc>
+    <lastmod>2022-09-14T15:25:35+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="esp"
@@ -650,16 +651,16 @@
                 />
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-09-11T14:22:12+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="esp"
-                href="/esp/"
-                />
+    <lastmod>2022-09-14T15:25:35+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
                 href="/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="esp"
+                href="/esp/"
                 />
     <xhtml:link
                 rel="alternate"
