@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainful – Deine Karriere bei Sustainful</title>
+    <link>/de/karriere/</link>
+    <description>Recent content in Deine Karriere bei Sustainful on Sustainful</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="/de/karriere/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

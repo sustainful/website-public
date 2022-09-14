@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="/fa/about/"
                 />
@@ -24,6 +29,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="/de/blog/news/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="/fa/blog/news/"
                 />
@@ -34,6 +44,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/docs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -55,6 +70,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="/de/blog/releases/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="/fa/blog/releases/"
                 />
@@ -68,6 +88,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="/de/blog/2018/10/06/easy-documentation-with-docsy/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="/fa/blog/2018/10/06/%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D8%AA-%D8%B1%D8%A7%D8%AD%D8%AA-%D8%A8%D8%A7-%D8%AF%D8%A7%DA%A9%D8%B3%DB%8C/"
                 />
@@ -77,6 +102,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -94,6 +124,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -115,6 +150,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="/de/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="no"
                 href="/no/"
                 />
@@ -133,6 +173,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="/de/community/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="/fa/community/"
                 />
@@ -146,6 +191,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fa"
                 href="/fa/blog/"
                 />
@@ -156,6 +206,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/search/"
                 />
     <xhtml:link
                 rel="alternate"
